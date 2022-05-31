@@ -20,6 +20,9 @@
     ]
   },
   "dependencies": {
+    "@temporalio/client": "^0.23.0",
+    "@temporalio/worker": "^0.23.2",
+    "@temporalio/workflow": "^0.23.0",
     "nanoid": "3.x",
     "temporalio": "0.21.x"
   },
